@@ -11,4 +11,6 @@ http://lists.slimdevices.com/mailman/listinfo/developers .
 This tool processes a directory with plugin zips and creates the
 repository xml and html data files.
 
-This is a rewrite of an original program by Peter Watkins.
+This is a rewrite of an 
+[original program](https://tuxreborn.netlify.com/linux/pdatranscode.pl.txt)
+by Peter Watkins.
